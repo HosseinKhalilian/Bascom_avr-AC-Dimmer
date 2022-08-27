@@ -6,9 +6,9 @@
 </p>
 
 
-### This repository is control the output voltage of the MCU in a stepped manner as a digital volume or etc.
-By pressing the up and down keys, You can increase or decrease the output voltage.
-The voltmeter displays the value of the output voltage and You can replace the voltmeter with the load.
+### This repository is Control light bulb or speed AC motor With MCU as AC-Dimmer .
+By pressing the up and down keys, You can increase or decrease the output voltage of Dimmer.
+
 ###### This repository contains Source Files & Proteus Circuit Simulation Files. 
 
 ---
