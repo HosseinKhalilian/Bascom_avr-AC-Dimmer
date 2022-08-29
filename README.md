@@ -1,4 +1,4 @@
-# Bascom_avr-AC-Dimmer
+# AVR AC Dimmer
 
 <p align="center">
 <img src="./Dimmer 02.jpg" height="240">
